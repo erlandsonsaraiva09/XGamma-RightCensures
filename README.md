@@ -1,8 +1,5 @@
 # XGamma-RightCensures
 R functions for estimation of the parameter of the XGamma distribution 
-# XGamma Survival Analysis
-
-R code accompanying the paper:
 
 **"Maximum likelihood, Bayesian inference, and prediction for the X-Gamma distribution with right-censored survival data"**
 
