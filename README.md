@@ -46,10 +46,6 @@ install.packages(c(
   "parallel"
 ))
 ```
-
-
-## Reproducing the Results
-
 ## Reproducing the Results
 
 The results reported in the paper can be reproduced by following the steps below:
